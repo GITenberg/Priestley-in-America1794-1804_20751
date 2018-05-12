@@ -1,0 +1,31 @@
+_repo: Priestley-in-America1794-1804_20751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Edgar Fahs
+    alias: Smith, Edgar F.
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '9504'
+    url: http://www.gutenberg.org/2009/agents/9504
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Fahs_Smith
+description: ''
+gutenberg_issued: '2007-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Priestley, Joseph, 1733-1804'
+- !lcsh 'Chemists -- England -- Biography'
+title: 'Priestley in America
+
+  1794-1804'
+url: http://www.gutenberg.org/ebooks/20751
