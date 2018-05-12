@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9504
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Fahs_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20751#Priestley-in-America1794-1804
 gutenberg_issued: '2007-03-06'
 gutenberg_type: Text
 identifiers:
